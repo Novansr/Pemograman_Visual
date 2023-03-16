@@ -1,0 +1,13 @@
+D:\Visualstudio\Posttest1_P.Visual\Posttest1_P.Visual\bin\Debug\Posttest1_P.Visual.exe.config
+D:\Visualstudio\Posttest1_P.Visual\Posttest1_P.Visual\bin\Debug\Posttest1_P.Visual.exe
+D:\Visualstudio\Posttest1_P.Visual\Posttest1_P.Visual\bin\Debug\Posttest1_P.Visual.pdb
+D:\Visualstudio\Posttest1_P.Visual\Posttest1_P.Visual\bin\Debug\Posttest1_P.Visual.xml
+D:\Visualstudio\Posttest1_P.Visual\Posttest1_P.Visual\obj\Debug\Posttest1_P.Visual.vbproj.AssemblyReference.cache
+D:\Visualstudio\Posttest1_P.Visual\Posttest1_P.Visual\obj\Debug\Posttest1_P.Visual.vbproj.SuggestedBindingRedirects.cache
+D:\Visualstudio\Posttest1_P.Visual\Posttest1_P.Visual\obj\Debug\Posttest1_P.Visual.Form1.resources
+D:\Visualstudio\Posttest1_P.Visual\Posttest1_P.Visual\obj\Debug\Posttest1_P.Visual.Resources.resources
+D:\Visualstudio\Posttest1_P.Visual\Posttest1_P.Visual\obj\Debug\Posttest1_P.Visual.vbproj.GenerateResource.cache
+D:\Visualstudio\Posttest1_P.Visual\Posttest1_P.Visual\obj\Debug\Posttest1_P.Visual.vbproj.CoreCompileInputs.cache
+D:\Visualstudio\Posttest1_P.Visual\Posttest1_P.Visual\obj\Debug\Posttest1_P.Visual.exe
+D:\Visualstudio\Posttest1_P.Visual\Posttest1_P.Visual\obj\Debug\Posttest1_P.Visual.xml
+D:\Visualstudio\Posttest1_P.Visual\Posttest1_P.Visual\obj\Debug\Posttest1_P.Visual.pdb
